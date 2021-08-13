@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6984c176-a2ee-489c-aa33-6bbd7039b694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bizlogic/classes/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/classes/JwtHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/jwt/BeforeValidException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/jwt/ExpiredException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/jwt/JWT.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/jwt/SignatureInvalidException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bizlogic/middlewares/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/web/src/component/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/web/src/component/dashbord.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wf7slg39a94im9fjJKIfEKND9F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bizlogic" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MYApp\bizlogic" />
+      <recent name="C:\xampp\htdocs\MYApp\ui\web\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6984c176-a2ee-489c-aa33-6bbd7039b694" name="Default Changelist" comment="" />
+      <created>1628837999552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628837999552</updated>
+      <workItem from="1628838000759" duration="1680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="302" key="GridCell.Tab.0.bottom" timestamp="1628838197944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628838197944" />
+    <state width="1345" height="302" key="GridCell.Tab.0.center" timestamp="1628838197944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1628838197944" />
+    <state width="1345" height="302" key="GridCell.Tab.0.left" timestamp="1628838197943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1628838197943" />
+    <state width="1345" height="302" key="GridCell.Tab.0.right" timestamp="1628838197944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1628838197944" />
+  </component>
+</project>
